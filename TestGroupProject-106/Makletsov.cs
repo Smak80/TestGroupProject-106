@@ -10,7 +10,7 @@ namespace TestGroupProject_106
     {
         public override string ToString()
         {
-            return "Makletsov's class";
+            return "Маклецов С. В.";
         }
     }
 }
