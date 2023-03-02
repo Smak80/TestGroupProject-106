@@ -14,9 +14,11 @@ namespace TestGroupProject_106
         {
             for (int i=0;i<a; i++)
             {
-                Console.WriteLine("Bam");
+                Console.WriteLine("What are you looking for stranger?");
             }
             
         }
+
+
     }
 }
