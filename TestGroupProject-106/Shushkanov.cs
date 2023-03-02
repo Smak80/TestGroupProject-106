@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 
 namespace TestGroupProject_106
 {
@@ -23,6 +24,6 @@ namespace TestGroupProject_106
         public Shushkanov(double i)
         {
 
-        }
+        public Shushkanov(string a) { }
     }
 }
