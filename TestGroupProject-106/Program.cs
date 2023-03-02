@@ -2,6 +2,7 @@ namespace TestGroupProject_106
 {
     internal static class Program
     {
+	/// тут был ринар
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
