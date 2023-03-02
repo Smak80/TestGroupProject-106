@@ -8,12 +8,13 @@ namespace TestGroupProject_106
 {
     public class Shushkanov
     {
+        public int thing { get; set; }
 
         public void explode(int a,Panel p)
         {
             for (int i=0;i<a; i++)
             {
-                Console.WriteLine("Boom");
+                Console.WriteLine("Bam");
             }
             
         }
