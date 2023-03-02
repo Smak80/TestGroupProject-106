@@ -23,7 +23,7 @@ namespace TestGroupProject_106
         public Shushkanov() { }
         public Shushkanov(double i)
         {
-
-        public Shushkanov(string a) { }
+        }
+        public Shushkanov(int a) { }
     }
 }
