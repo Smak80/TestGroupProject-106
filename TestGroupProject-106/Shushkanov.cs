@@ -19,6 +19,6 @@ namespace TestGroupProject_106
             
         }
 
-
+        public Shushkanov() { }
     }
 }
