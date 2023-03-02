@@ -10,7 +10,7 @@ namespace TestGroupProject_106
         private void button1_Click(object sender, EventArgs e)
         {
             Makletsov sv = new Makletsov();
-            label1.Text = sv.ToString();
+            lastname.Text = sv.ToString();
         }
     }
 }
